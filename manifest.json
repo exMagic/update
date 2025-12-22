@@ -1,0 +1,7 @@
+{
+  "versionName": "1.1.0",
+  "versionCode": 2,
+  "apkUrl": "https://your.domain/path/AutoUpdate-1.1.0.apk",
+  "releaseNotes": "Bug fixes and improvements.",
+  "checksumSha256": "ab12cd34ef56..."
+}
