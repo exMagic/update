@@ -1,7 +1,7 @@
 {
-  "versionName": "1.11",
-  "versionCode": 11,
+  "versionName": "1.12",
+  "versionCode": 12,
   "apkUrl": "https://github.com/exMagic/update/raw/refs/heads/main/com.companyname.autoupdate.apk",
-  "releaseNotes": "ok ./ 11 yes Bug fixes and improvements.",
-  "checksumSha256": "D89D2ED8992279154979E618346B30CE02AB57E7D6E420DD217BB20A9D6A57C3​"
+  "releaseNotes": "ok ./ 12 yes Bug fixes and improvements.",
+  "checksumSha256": "775755BC4D72AF7FB6B913AE914518106693FE69E1FD79E798EA3C8BAF00C1A0​"
 }
