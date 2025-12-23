@@ -1,7 +1,7 @@
 {
-  "versionName": "1.9",
-  "versionCode": 9,
+  "versionName": "1.10",
+  "versionCode": 10,
   "apkUrl": "https://github.com/exMagic/update/raw/refs/heads/main/com.companyname.autoupdate.apk",
-  "releaseNotes": "9 yes Bug fixes and improvements.",
+  "releaseNotes": "ok ./ 10 yes Bug fixes and improvements.",
   "checksumSha256": "499D831E7BEC91BE876185D05E95E90505CEB5A66B70CA0B2AB7C78D7E2A1000​"
 }
